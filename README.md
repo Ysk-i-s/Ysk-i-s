@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🦊 What I focused on 🦊
+### 🦊 What I focus on 🦊
 
 - Windows application development
 - Develop IoT system with Python
 - Microsoft Azure infrastructure
-- Cyber security consulting
+- Cyber security
 
 ### 🌱 I’m currently learning 🌱
 
