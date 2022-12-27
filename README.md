@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - Develop IoT system with Python
 - Microsoft Azure infrastructure
 - Cyber security
+- Personal Data Security 🔐
+- Digital Twin 🏙️
 
 ### 🌱 I’m currently learning 🌱
 
