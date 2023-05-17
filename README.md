@@ -22,13 +22,12 @@ Here are some ideas to get you started:
 - Develop IoT system with Python
 - Microsoft Azure infrastructure
 - Cyber security
-- Personal Data Security 🔐
-- Digital Twin 🏙️
+- Confidential Data Security 🔐
+- Digital Twin & Smart City 🏙️
 
 ### 🌱 I’m currently learning 🌱
 
 - Speacking Chinese
-- Microsoft Defender, Microsoft Purview
 
 
 ### 💻 Languages and Tools 💻
