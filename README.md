@@ -1,6 +1,8 @@
 ## Hi, I'm Yusuke 👋
 
-I work as software engineer, I'm based in Kyoto, Japan.
+I'm running a IT company in Kyoto, Japan.
+In particular, our focus areas are generative AI development and digital twin development.
+We are also planning to roll out new services in the near future.
 
 <!--
 **Ysk-i-s/Ysk-i-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +20,7 @@ Here are some ideas to get you started:
 
 ### 🦊 What I focus on 🦊
 
+- Generative AI development
 - Windows application development
 - Develop IoT system with Python
 - Microsoft Azure infrastructure
